@@ -1,16 +1,16 @@
-# voting_app
+Voting App using Blockchain
+This project is a decentralized voting application built using Flutter, Solidity, Firebase, and MetaMask. It leverages blockchain technology to ensure transparent, secure, and tamper-proof elections. Users can cast votes on a blockchain network, preventing fraudulent activities such as vote manipulation or duplication.
 
-A new Flutter project.
+🔹 Tech Stack
+Flutter – Frontend for a seamless cross-platform user experience
+Solidity – Smart contract development for secure and transparent voting
+Firebase – Authentication and database for user management
+MetaMask – Wallet integration for blockchain transactions
+🔹 Features
+✔️ Secure and transparent voting process
+✔️ Blockchain-based smart contract to ensure integrity
+✔️ Voter authentication using Firebase
+✔️ MetaMask wallet integration for Ethereum-based transactions
+✔️ Real-time vote counting and results
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project demonstrates the power of decentralized applications (DApps) for real-world voting systems. 🚀
